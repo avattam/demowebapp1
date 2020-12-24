@@ -13,7 +13,7 @@ variables:
   dockerRegistryServiceConnection: '4c60362e-352a-491f-bc8d-eec4dc4b1bea'
   imageRepository: 'demoaspnetwebapp'
   containerRegistry: 'vakappregistry.azurecr.io'
-  dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
+  dockerfilePath: 'Dockerfile'
   tag: '$(Build.BuildId)'
   
   # Agent VM image name
