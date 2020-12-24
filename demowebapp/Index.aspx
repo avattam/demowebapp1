@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a demo web application for Github test (Azure Pipeline pickup)
+            This is a demo web application for Github test (azure pipeline) windows machine
         </div>
     </form>
 </body>
